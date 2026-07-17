@@ -109,16 +109,7 @@ Customer segmentation using RFM Analysis and K-Means Clustering on 500K+ transac
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jinaaa1115&theme=tokyonight">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jinaaa1115&theme=tokyonight">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jinaaa1115&theme=tokyonight">
-</p>
----
+ 
 
 ## 📫 Connect With Me
 
